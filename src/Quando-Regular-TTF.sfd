@@ -7671,8 +7671,8 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 1 0 0
-Refer: 37 47 N -0.999939 0 0 1 921 0 2
+Refer: 424 -1 N 1 0 0 1 7 0 0
+Refer: 37 47 N -0.999939 0 0 1 932 0 2
 EndChar
 
 StartChar: bracketright
@@ -9560,8 +9560,8 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 97 0 0
-Refer: 113 123 N -0.999939 0 0 1 1026 0 2
+Refer: 424 -1 N 1 0 0 1 101 0 0
+Refer: 113 123 N -0.999939 0 0 1 1030 0 2
 EndChar
 
 StartChar: asciitilde
@@ -13679,10 +13679,10 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 176 0 0
+Refer: 424 -1 N 1 0 0 1 189 0 0
 Refer: 142 185 N 1 0 0 1 -70 -101 2
-Refer: 135 178 N 1 0 0 1 1140 -1030 2
-Refer: 391 8260 N 1 0 0 1 247 -6 2
+Refer: 135 178 N 1 0 0 1 1149 -1030 2
+Refer: 391 8260 N 1 0 0 1 241 -6 2
 EndChar
 
 StartChar: threequarters
@@ -24418,9 +24418,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 0 0 0
+Refer: 424 -1 N 1 0 0 1 7 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 86 96 N 1 0 0 1 -93 0 2
+Refer: 86 96 N 1 0 0 1 -86 0 2
 EndChar
 
 StartChar: iacute
@@ -24689,9 +24689,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 88 0 0
+Refer: 424 -1 N 1 0 0 1 95 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 137 180 N 1 0 0 1 83 0 2
+Refer: 137 180 N 1 0 0 1 90 0 2
 EndChar
 
 StartChar: icircumflex
@@ -24982,9 +24982,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 12 0 0
+Refer: 424 -1 N 1 0 0 1 19 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 345 710 N 1 0 0 1 -81 0 2
+Refer: 345 710 N 1 0 0 1 -74 0 2
 EndChar
 
 StartChar: idieresis
@@ -25269,9 +25269,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 0 0 0
+Refer: 424 -1 N 1 0 0 1 7 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 125 168 N 1 0 0 1 -183 0 2
+Refer: 125 168 N 1 0 0 1 -176 0 2
 EndChar
 
 StartChar: eth
@@ -28052,7 +28052,7 @@ LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 109 0 0
 Refer: 87 97 N 1 0 0 1 0 0 3
-Refer: 347 728 N 1 0 0 1 -120 0 2
+Refer: 347 728 N 1 0 0 1 -123 0 2
 EndChar
 
 StartChar: Aogonek
@@ -31599,7 +31599,7 @@ LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 108 0 0
 Refer: 91 101 N 1 0 0 1 0 0 3
-Refer: 347 728 N 1 0 0 1 -63 0 2
+Refer: 347 728 N 1 0 0 1 -66 0 2
 EndChar
 
 StartChar: Edotaccent
@@ -33715,7 +33715,7 @@ EndTTInstrs
 LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 97 0 0
-Refer: 347 728 N 1 0 0 1 -111 0 2
+Refer: 347 728 N 1 0 0 1 -114 0 2
 Refer: 93 103 N 1 0 0 1 0 0 2
 EndChar
 
@@ -35468,9 +35468,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 82 0 0
+Refer: 424 -1 N 1 0 0 1 103 0 0
 Refer: 94 104 N 1 0 0 1 0 0 3
-Refer: 345 710 N 1 0 0 1 450 -31 2
+Refer: 345 710 N 1 0 0 1 471 -31 2
 EndChar
 
 StartChar: Hbar
@@ -37086,9 +37086,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 0 0 0
+Refer: 424 -1 N 1 0 0 1 7 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 351 732 N 1 0 0 1 -273 0 2
+Refer: 351 732 N 1 0 0 1 -266 0 2
 EndChar
 
 StartChar: Imacron
@@ -37628,9 +37628,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 0 0 0
+Refer: 424 -1 N 1 0 0 1 7 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 132 175 N 1 0 0 1 -142 0 2
+Refer: 132 175 N 1 0 0 1 -135 0 2
 EndChar
 
 StartChar: Ibreve
@@ -38226,9 +38226,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 0 0 0
+Refer: 424 -1 N 1 0 0 1 7 0 0
 Refer: 262 305 N 1 0 0 1 0 0 3
-Refer: 347 728 N 1 0 0 1 -385 0 2
+Refer: 347 728 N 1 0 0 1 -381 0 2
 EndChar
 
 StartChar: Iogonek
@@ -39434,9 +39434,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 88 0 0
+Refer: 424 -1 N 1 0 0 1 95 0 0
 Refer: 95 105 N 1 0 0 1 0 0 2
-Refer: 96 106 N 1 0 0 1 717 0 2
+Refer: 96 106 N 1 0 0 1 724 0 2
 EndChar
 
 StartChar: Jcircumflex
@@ -40489,9 +40489,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 85 0 0
+Refer: 424 -1 N 1 0 0 1 98 0 0
 Refer: 97 107 N 1 0 0 1 0 0 3
-Refer: 408 63171 N 1 0 0 1 423 1 2
+Refer: 408 63171 N 1 0 0 1 436 1 2
 EndChar
 
 StartChar: kgreenlandic
@@ -41760,9 +41760,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 84 0 0
+Refer: 424 -1 N 1 0 0 1 104 0 0
 Refer: 98 108 N 1 0 0 1 0 0 3
-Refer: 408 63171 N 1 0 0 1 44 1 2
+Refer: 408 63171 N 1 0 0 1 64 1 2
 EndChar
 
 StartChar: Lcaron
@@ -42334,9 +42334,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 84 0 0
+Refer: 424 -1 N 1 0 0 1 104 0 0
 Refer: 98 108 N 1 0 0 1 0 0 2
-Refer: 422 -1 N 1 0 0 1 450 0 2
+Refer: 422 -1 N 1 0 0 1 470 0 2
 EndChar
 
 StartChar: Ldot
@@ -42912,9 +42912,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 84 0 0
+Refer: 424 -1 N 1 0 0 1 104 0 0
 Refer: 98 108 N 1 0 0 1 0 0 2
-Refer: 140 183 N 1 0 0 1 566 0 2
+Refer: 140 183 N 1 0 0 1 586 0 2
 EndChar
 
 StartChar: Lslash
@@ -45753,7 +45753,7 @@ LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 99 0 0
 Refer: 101 111 N 1 0 0 1 0 0 3
-Refer: 347 728 N 1 0 0 1 -98 0 2
+Refer: 347 728 N 1 0 0 1 -101 0 2
 EndChar
 
 StartChar: Ohungarumlaut
@@ -51624,7 +51624,7 @@ LayerCount: 2
 Fore
 Refer: 424 -1 N 1 0 0 1 60 0 0
 Refer: 107 117 N 1 0 0 1 0 0 3
-Refer: 347 728 N 1 0 0 1 -106 0 2
+Refer: 347 728 N 1 0 0 1 -109 0 2
 EndChar
 
 StartChar: Uring
@@ -53601,9 +53601,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 92 0 0
+Refer: 424 -1 N 1 0 0 1 108 0 0
 Refer: 80 90 N 1 0 0 1 0 0 3
-Refer: 413 -1 N 1 0 0 1 390 0 2
+Refer: 413 -1 N 1 0 0 1 406 0 2
 EndChar
 
 StartChar: zacute
@@ -54295,9 +54295,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 92 0 0
+Refer: 424 -1 N 1 0 0 1 108 0 0
 Refer: 80 90 N 1 0 0 1 0 0 3
-Refer: 423 -1 N 1 0 0 1 318 0 2
+Refer: 423 -1 N 1 0 0 1 334 0 2
 EndChar
 
 StartChar: zdotaccent
@@ -55005,9 +55005,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 92 0 0
+Refer: 424 -1 N 1 0 0 1 108 0 0
 Refer: 80 90 N 1 0 0 1 0 0 3
-Refer: 416 -1 N 1 0 0 1 143 0 2
+Refer: 416 -1 N 1 0 0 1 159 0 2
 EndChar
 
 StartChar: zcaron
@@ -57603,9 +57603,9 @@ CALL
 EndTTInstrs
 LayerCount: 2
 Fore
-Refer: 424 -1 N 1 0 0 1 16 0 0
+Refer: 424 -1 N 1 0 0 1 37 0 0
 Refer: 88 98 N 1 0 0 1 0 0 3
-Refer: 348 729 N 1 0 0 1 336 0 2
+Refer: 348 729 N 1 0 0 1 357 0 2
 EndChar
 
 StartChar: uni1E0A
